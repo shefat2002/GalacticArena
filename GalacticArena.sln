@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalacticArena.Silo", "src\G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalacticArena.Client", "src\GalacticArena.Client\GalacticArena.Client.csproj", "{460BFC59-A1EF-4B06-AB28-5EFB6C73FD6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalacticArena.Tests", "tests\GalacticArena.Tests\GalacticArena.Tests.csproj", "{4141D3C2-DA28-4D63-ACBD-37D57747E934}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{460BFC59-A1EF-4B06-AB28-5EFB6C73FD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{460BFC59-A1EF-4B06-AB28-5EFB6C73FD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{460BFC59-A1EF-4B06-AB28-5EFB6C73FD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4141D3C2-DA28-4D63-ACBD-37D57747E934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4141D3C2-DA28-4D63-ACBD-37D57747E934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4141D3C2-DA28-4D63-ACBD-37D57747E934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4141D3C2-DA28-4D63-ACBD-37D57747E934}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
