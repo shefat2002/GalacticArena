@@ -1,0 +1,6 @@
+@GalacticArena.Client_HostAddress = http://localhost:5238
+
+GET {{GalacticArena.Client_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
